@@ -2,7 +2,7 @@
 #### Front-End Developer 
 Programmer Front-End passionate of new technologies. Currently in active looking for work. I'm a React :heart:
 
-Skills: HTML | CSS | React | Nextjs | GATSBY | SASS | MONGODB | GIT | DOCKER | NODE.JS | FIREBASE | SCSS | Java | Python | Unity | C# | C++ | Vuejs | Angularjs | Yarn | Yii | 
+Skills: HTML | CSS | React | Nextjs | GATSBY | SASS | MONGODB | GIT | DOCKER | NODE.JS | FIREBASE | SCSS | Java | Python | Unity | C# | C++ | Yarn | Yii | 
 
 - 🔭 I’m currently working on differents personal projects 
 - 🌱 I’m currently learning React | Gatsby | GRAPHQL | NODEjs 
