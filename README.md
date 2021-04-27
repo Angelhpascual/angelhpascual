@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ángel Hernández Pascual
 #### Front-End Developer 
-Programmer Front-End passionate of new technologies. Currently in active looking for a job. I'm a React :heart:
+Programmer Front-End passionate of new technologies. Currently working in Codeko. I'm a React :heart:
 
 Skills: HTML | CSS | React | Nextjs | GATSBY | SASS | MONGODB | GIT | DOCKER | NODE.JS | FIREBASE | SCSS | Java | Python | Unity | C# | C++ | Yarn | Yii | 
 
