@@ -1,3 +1,12 @@
+<details>
+  <summary>🔥 Top languages</summary>
+  <br>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhpascual&layout=compact&theme=dark)](https://github.com/angelhpascual/github-readme-stats)
+</details>
+
+<!--
 ### Hi there 👋, my name is Ángel Hernández Pascual
 #### Front-End Developer 
 Programmer Front-End passionate of new technologies. Currently working in NTTDATA. I'm a React :heart:
@@ -20,3 +29,5 @@ Skills: HTML | CSS | React | Nextjs | GATSBY | SASS | MONGODB | GIT | DOCKER | N
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhpascual&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/angelhpascual)  
+
+-->
